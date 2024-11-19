@@ -1,0 +1,36 @@
+v<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SN EDITS - Home</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(120deg, #89f7fe, #66a6ff);
+            color: #fff;
+            text-align: center;
+        }
+        header {
+            padding: 20px;
+            font-size: 2.5rem;
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 20px;
+        }
+        a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1rem;
+            border-bottom: 2px solid #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>Home - SN EDITS</header>
+    <p>Your go-to service for professional editing. Whether it's photo, video, or content editing, we've got you covered!</p>
+    <a href="index.html">Back to Index</a>
+</body>
+</html>
